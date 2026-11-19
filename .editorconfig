@@ -1,0 +1,4 @@
+[*.{js,mjs,html,css,json,webmanifest,md,svg}]
+end_of_line = lf
+charset = utf-8
+insert_final_newline = true
